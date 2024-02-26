@@ -1,0 +1,11 @@
+{
+	"name": "WideChestsOverrideInventorySettings",
+	"version": "1.0.0",
+	"factorio_version": "1.1",
+	"title": "Merging Chests Override Inventory Settings",
+	"author": "Atria",
+	"contact": "tomas.chmelik2@gmail.com",
+	"homepage": "https://github.com/Atria1234/WideChestsOverrideInventorySettings",
+	"description": "Toggle mod for WideChests mod. Having this mod creates inventory mod settings for every type of mergable chest (except those which have them hidden).",
+	"dependencies": []
+}
